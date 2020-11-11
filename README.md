@@ -1,1 +1,1 @@
-# Russian_translate_The_Maniac_mod
+# Russian_translate_Lobotomy_Extended_mod
