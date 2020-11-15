@@ -1,2 +1,3 @@
-# Russian_translate_The_Maniac_mod
+ Перевод для мода The Maniac для Slay the Spire
 
+# Оригинальный мод:
